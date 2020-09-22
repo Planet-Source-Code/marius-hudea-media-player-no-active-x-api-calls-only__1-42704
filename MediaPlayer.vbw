@@ -1,0 +1,15 @@
+FrmMain = -101, 62, 537, 532, C, 9, 10, 445, 197, C
+ModWindow = -2, 1, 621, 530, C
+FrmView = 17, 44, 458, 492, C, 374, 207, 629, 437, C
+ModOpenFile = -2, 0, 620, 525, C
+ModMCI = -1, 1, 619, 525, C
+ModProgressBar = -1, 1, 619, 526, C
+ModStatus = 0, -1, 619, 525, C
+FrmToolBar = 14, 30, 463, 478, C, 22, 299, 947, 415, C
+ModAVI = -1, 2, 613, 525, C
+ModSubtitles = 0, 0, 620, 531, C
+FrmSub = 121, 180, 485, 526, C, 8, 361, 587, 492, C
+ModAPI = 0, 1, 606, 522, C
+frmPlayList = 66, 57, 465, 403, C, 9, 198, 355, 514, C
+ModPlayList = -2, 0, 620, 524, C
+ModData = 0, 0, 613, 525, C
